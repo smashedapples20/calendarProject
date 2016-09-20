@@ -2,7 +2,7 @@
   app.CalendarComponent =
     ng.core.Component({
       selector: 'calendar',
-      templateUrl: './calendar.component.html'
+      templateUrl: 'app/calendar/calendar.component.html'
     })
     .Class({
       constructor: function() {}
